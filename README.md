@@ -8,7 +8,7 @@ With time, the html and css code and actual page will keep improving, but consta
 
 #### Screenshots
 Recreated Static Comp
-![Recreated Static Comp](
+![Recreated Static Comp](static-comp-1.png)
 
 
 Original Static Comp
