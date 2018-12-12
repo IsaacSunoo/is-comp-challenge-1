@@ -15,7 +15,7 @@ p {
 
 header {
   height: 150px;
-  background-color: #20292C;
+  background-color: #272626;
   display: flex;
   justify-content: space-between;
 }
@@ -52,7 +52,7 @@ h5 {
   display: flex;
   align-items: flex-end;
   margin-left: 20px;
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 
 .admin-header {
@@ -100,6 +100,9 @@ h5 {
 
 .win-logo {
   height: 30px;
+  position: absolute;
+  top: 40px;
+  right: 10px;
 }
 
 .card-container {
